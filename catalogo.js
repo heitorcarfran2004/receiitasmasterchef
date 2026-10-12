@@ -41,12 +41,12 @@ const CATALOGO = {
       sub: 'Os molhos que transformam qualquer prato.',
       paginas: 0, de: 'R$ 19,90', por: 'R$ 4,90', liberado: true, embreve: true,
       capa: 'assets/capas/molhos.webp',
-      pdf: 'pdf/extra-molhos.pdf', checkout: '' },
+      pdf: 'pdf/extra-molhos.pdf', checkout: 'https://pay.wiapy.com/yRAt_AhsHQJu' },
     { slug: 'saladas', titulo: '20 Saladas Irresistíveis de Chef',
       sub: 'Até quem não gosta de salada vai querer repetir!',
       paginas: 0, de: 'R$ 19,90', por: 'R$ 4,90', liberado: true, embreve: true,
       capa: 'assets/capas/saladas.webp',
-      pdf: 'pdf/extra-saladas.pdf', checkout: '' },
+      pdf: 'pdf/extra-saladas.pdf', checkout: 'https://pay.wiapy.com/yRAt_AhsHQJu' },
   ],
 
   // A aba de VÍDEOS. Vazia = a aba mostra o cadeado e o aviso de "Em breve".
